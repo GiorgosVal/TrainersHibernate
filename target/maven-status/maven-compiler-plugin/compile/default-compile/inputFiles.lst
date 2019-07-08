@@ -1,0 +1,7 @@
+/home/giorgos/NetBeansProjects/TrainersHibernate/src/main/java/com/mycompany/trainershibernate/configuration/aMavenSpringJPAInitializer.java
+/home/giorgos/NetBeansProjects/TrainersHibernate/src/main/java/com/mycompany/trainershibernate/entities/Trainer.java
+/home/giorgos/NetBeansProjects/TrainersHibernate/src/main/java/com/mycompany/trainershibernate/dao/TrainerDao.java
+/home/giorgos/NetBeansProjects/TrainersHibernate/src/main/java/com/mycompany/trainershibernate/configuration/aMavenSpringJPAConfiguration.java
+/home/giorgos/NetBeansProjects/TrainersHibernate/src/main/java/com/mycompany/trainershibernate/services/TrainerService.java
+/home/giorgos/NetBeansProjects/TrainersHibernate/src/main/java/com/mycompany/trainershibernate/HibernateUtil.java
+/home/giorgos/NetBeansProjects/TrainersHibernate/src/main/java/com/mycompany/trainershibernate/controllers/TrainersController.java

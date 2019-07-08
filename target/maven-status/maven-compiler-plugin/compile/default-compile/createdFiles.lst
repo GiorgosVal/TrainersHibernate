@@ -1,0 +1,7 @@
+com/mycompany/trainershibernate/services/TrainerService.class
+com/mycompany/trainershibernate/configuration/aMavenSpringJPAConfiguration.class
+com/mycompany/trainershibernate/configuration/aMavenSpringJPAInitializer.class
+com/mycompany/trainershibernate/controllers/TrainersController.class
+com/mycompany/trainershibernate/HibernateUtil.class
+com/mycompany/trainershibernate/dao/TrainerDao.class
+com/mycompany/trainershibernate/entities/Trainer.class
