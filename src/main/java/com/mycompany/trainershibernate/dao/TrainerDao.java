@@ -7,11 +7,7 @@ package com.mycompany.trainershibernate.dao;
 
 import com.mycompany.trainershibernate.HibernateUtil;
 import com.mycompany.trainershibernate.entities.Trainer;
-import java.util.ArrayList;
 import java.util.List;
-import javax.persistence.EntityManager;
-import javax.persistence.EntityManagerFactory;
-import javax.persistence.Persistence;
 import org.hibernate.Session;
 
 /**
@@ -26,7 +22,7 @@ public class TrainerDao {
 
         @SuppressWarnings("unchecked")
         List<Trainer> trainers = (List<Trainer>) session.createQuery(
-                "FROM Trainers t ORDER BY tfname ASC").list(); // είναι HQL αυτό
+                "FROM Trainers t ORDER BY t.tfname ASC").list(); // είναι HQL αυτό
 
         session.getTransaction().commit();
         session.close();
